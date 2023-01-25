@@ -27,3 +27,14 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.chat {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
